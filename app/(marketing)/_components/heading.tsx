@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 
+
 const heading = () => {
   return (
     <div className="max-w-3xl space-y-4 ">
